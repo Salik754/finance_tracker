@@ -27,4 +27,4 @@ elif remaining_balance == 0:
     print("You have used your entire allowance.")
 else:
     print("You are over budget.")
-# End of program
+# End of the program
