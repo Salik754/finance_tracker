@@ -65,6 +65,6 @@ def main() -> None:
 
 
 if (
-    __name__ == "__functions__"
+    __name__ == "__main__"
 ):  # Make sure the code doesn't run if imported BY SOMEONE ELSE
     main()
