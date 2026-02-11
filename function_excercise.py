@@ -29,5 +29,5 @@ def get_encouragement():
         return message4
 
 
-# Call the function and print the result
+# Call the function and print the result   v
 print(get_encouragement())
