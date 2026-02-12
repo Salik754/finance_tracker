@@ -64,7 +64,7 @@ def main() -> None:
         print(f"Hello {username}! Your age is invalid.")
 
 
-if (
+if (    
     __name__ == "__main__"
 ):  # Make sure the code doesn't run if imported BY SOMEONE ELSE
     main()
