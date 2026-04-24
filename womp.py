@@ -13,7 +13,7 @@ def count_reel_occurrences():
     words = text_lower.split()
     
     # Count exact matches of "reel"
-    count = words.count("https://www.instagram.com/reel/")
+    count = words.count("url")
     
     print(f'\nYou have liked {count} reels.')
 
